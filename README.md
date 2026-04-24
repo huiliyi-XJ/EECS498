@@ -30,7 +30,7 @@ EECS498/
 |:---:|:---:|------|------|
 | ✅ | L1 | Course Introduction | [笔记](notes/01-intro.md) |
 | ✅ | L2 | Image Classification (kNN, Cross-validation) | [笔记](notes/02-image-classification.md) |
-| ⬜ | L3 | Linear Classifiers (Softmax, SVM) | [笔记](notes/03-linear-classifiers.md) |
+| ✅ | L3 | Linear Classifiers (Softmax, SVM) | [笔记](notes/03-linear-classifiers.md) |
 | ⬜ | L4 | Regularization + Optimization (SGD, Adam) | [笔记](notes/04-optimization.md) |
 | ⬜ | L5 | Neural Networks (FC, Universal Approximation) | [笔记](notes/05-neural-networks.md) |
 | ⬜ | L6 | Backpropagation (Computational Graphs) | [笔记](notes/06-backpropagation.md) |
